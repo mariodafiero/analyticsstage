@@ -1,0 +1,12 @@
+{% extends 'user.twig' %}
+
+{% set title %}{{ 'CustomAlerts_PersonalAlerts'|translate }}{% endset %}
+
+{% block content %}
+
+    <div class="alerts">
+        <h2 piwik-enriched-headline>{{ 'CustomAlerts_PersonalAlerts'|translate }}</h2>
+
+        {% include "@CustomAlerts/list.twig" %}
+    </div>
+{% endblock %}

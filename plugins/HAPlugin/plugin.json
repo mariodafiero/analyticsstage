@@ -1,0 +1,16 @@
+{
+  "name": "HAPlugin",
+  "version": "0.1",
+  "description": "HAPlugin",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.16.0-b1"
+  },
+  "authors": [
+    {
+      "name": "Piwik",
+      "email": "",
+      "homepage": ""
+    }
+  ]
+}

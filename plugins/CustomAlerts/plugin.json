@@ -1,0 +1,18 @@
+{
+    "name": "CustomAlerts",
+    "description": "Create custom Alerts to be notified of important changes on your website or app! ",
+    "version": "0.1.21",
+    "require": {
+        "piwik": ">=2.15.0-b18"
+    },
+    "authors": [
+        {
+            "name": "Piwik",
+            "email": "hello@piwik.org",
+            "homepage": "http://piwik.org"
+        }
+    ],
+    "license": "GPL v3+",
+    "keywords": ["alerts", "notification", "report", "monitoring"],
+    "homepage": "http://piwik.org"
+}

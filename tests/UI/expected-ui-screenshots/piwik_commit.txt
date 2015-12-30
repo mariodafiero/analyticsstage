@@ -1,0 +1,2 @@
+78db7d5f264dc4391c236b2bf00a0d57d0a8cc06
+log-plugin

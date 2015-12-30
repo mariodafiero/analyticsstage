@@ -1,0 +1,19 @@
+{
+    "name": "TreemapVisualization",
+    "version": "1.0.12",
+    "description": "Visualise any report in Piwik as a Treemap. Click on the Treemap icon in each report to load the visualisation. ",
+    "keywords": ["treemap", "graph", "visualization", "infovis", "jit"],
+    "license": "GPL v3+",
+    "homepage": "http://piwik.org",
+    "require": {
+        "piwik": ">=2.4.0-b1",
+        "php": ">=5.3.3"
+    },
+    "authors": [
+        {
+            "name": "Piwik",
+            "email": "hello@piwik.org",
+            "homepage": "http://piwik.org"
+        }
+    ]
+}

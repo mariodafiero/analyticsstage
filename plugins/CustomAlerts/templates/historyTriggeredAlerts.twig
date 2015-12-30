@@ -1,0 +1,20 @@
+{% extends 'user.twig' %}
+
+{% import '@CustomAlerts/macros.twig' as alertsMacro %}
+
+{% block content %}
+
+    <div class="alerts">
+        <h2>{{ 'CustomAlerts_AlertsHistory'|translate }}</h2>
+
+        <div class='entityListContainer'>
+            {{ alertsFormatted|raw }}
+        </div>
+
+        <br />
+        <a class="addrow" href="{{ linkTo({'module': 'CustomAlerts', 'action': 'index'}) }}"><img src='plugins/Morpheus/images/table.png'/> {{ 'CustomAlerts_PersonalAlerts'|translate }}</a>
+
+        <br />
+        <br />
+    </div>
+{% endblock %}

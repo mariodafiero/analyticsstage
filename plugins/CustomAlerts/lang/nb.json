@@ -1,0 +1,31 @@
+{
+    "CustomAlerts": {
+        "Alert": "Varsel",
+        "Alerts": "Varsler",
+        "CreateNewAlert": "Opprett nytt varsel",
+        "MailAlertSubject": "Nytt varsel for nettsted %1$s [%2$s]",
+        "ValueIsLessThan": "er %2$s som er mindre enn %1$s",
+        "ValueIsGreaterThan": "er %2$s som er større enn %1$s",
+        "OperationIs": "er",
+        "OperationIsNot": "er ikke",
+        "OperationContains": "inneholder",
+        "OperationDoesNotContain": "inneholder ikke",
+        "EditAlert": "Rediger varsel",
+        "AlertName": "Navn på varsel",
+        "AlertMeWhen": "Varsle meg når",
+        "StartsWith": "starter med",
+        "DoesNotStartWith": "starter ikke med",
+        "EndsWith": "slutter med",
+        "DoesNotEndWith": "slutter ikke med",
+        "IsLessThan": "er mindre enn",
+        "IsGreaterThan": "er større enn",
+        "DayComparedToPreviousDay": "dagen før",
+        "DayComparedToPreviousWeek": "samme dag i forrige uke",
+        "DayComparedToPreviousYear": "samme dag året før",
+        "WeekComparedToPreviousWeek": "uken før",
+        "MonthComparedToPreviousMonth": "måneden før",
+        "MonthComparedToPreviousYear": "samme måned året før",
+        "When": "når",
+        "ComparedToThe": "sammenlignet med"
+    }
+}
